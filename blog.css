@@ -23,3 +23,12 @@ h1{
     background-image: url('https://images.unsplash.com/photo-1596374004290-2d0788efc9b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     background-size: cover;
 }
+.C{
+    text-align: center;
+    margin:5px;
+    height:500px;
+    background-image: url('https://media.istockphoto.com/id/1397081888/photo/beautiful-cloudscape-over-the-sea.jpg?s=1024x1024&w=is&k=20&c=l1kXQ1opcnkSVkBTKYt9V8sUO_4GDdnFhXjIeIbl00Q=');
+    background-size: cover;
+    color: brown;
+
+}
