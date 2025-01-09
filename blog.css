@@ -1,0 +1,25 @@
+div{
+    background-color:floralwhite;
+    color:seagreen;
+    margin: 10px;
+    font-size: x-large;
+    border: 10px solid plum;
+    padding-left: 10px;
+    
+}
+p{
+    margin: 0;
+}
+.T{
+    height: 400px;
+    background-image: url('https://media.istockphoto.com/id/1179769497/photo/view-of-mountains.jpg?s=1024x1024&w=is&k=20&c=y_adlVRdGeTYfz1mgddTZw4IRvOthRKCuEG-LJ0viNw=');
+    background-size: cover;
+    margin:5px;
+    text-align: center;
+    text-decoration:underline green;
+}
+h1{
+    height: 500px;
+    background-image: url('https://images.unsplash.com/photo-1596374004290-2d0788efc9b0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+}
